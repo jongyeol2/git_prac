@@ -1,0 +1,2 @@
+print("gd")
+print("ㅎㅇㅎㅇ")
